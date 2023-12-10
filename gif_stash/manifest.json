@@ -1,14 +1,14 @@
 {
   "name": "GIF Stash",
-  "version": "0.0.1",
-  "manifest_version": 2,
+  "version": "0.0.3",
+  "manifest_version": 3,
   "description": "Collect GIFs !",
   "icons": {
     "16": "icons/icon16.png",
     "32": "icons/icon32.png",
     "128": "icons/icon128.png"
   },
-  "browser_action": {
+  "action": {
     "default_icon": "gif_stash.png",
     "default_title": "GIF Stash",
     "default_popup": "gif_stash.html"
